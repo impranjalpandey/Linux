@@ -1,0 +1,16 @@
+whatis whoami      = Print effective userid.
+whatis man man     = An interface to the system references manuals.
+whatis hostnamectl = Control the system hostname.
+whatis system      = Execute a shell command.
+pwd                = Print name of current/working directory.
+ls                 = List directory contents.
+cd                 = Change directory.
+mkdir              = Make directories.
+touch              = Change file timestamps.
+rmdir              = Remove empty directories.
+[2]                = Delete a directory.
+rm                 = Remove file or directories.
+whatis open        = Open and possibly create a file.
+whatis mv          = To move or (rename) files.
+cp                 = Copy files and directories.
+head               = Output the first part of files.
