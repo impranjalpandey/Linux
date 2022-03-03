@@ -14,3 +14,4 @@ whatis open        = Open and possibly create a file.
 whatis mv          = To move or (rename) files.
 cp                 = Copy files and directories.
 head               = Output the first part of files.
+sudo                = switch to other user
